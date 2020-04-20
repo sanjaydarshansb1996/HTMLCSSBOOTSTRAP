@@ -1,0 +1,1 @@
+CREATE TABLE sanjay_employee(emp_id INT(11) PRIMARY KEY AUTO_INCREMENT,emp_name VARCHAR(20),emp_date_of_joining DATE,dep_id INT(11));
